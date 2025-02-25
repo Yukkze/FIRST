@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:lapis_block_rechiseled_chair_classic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "lapis_block_rechiseled_chair_classic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "rechiseled:lapis_block_polished"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "lapis_block_rechiseled_chair_classic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:lapis_block_rechiseled_chair_classic"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:petrified_wood_unusualprehistory_kitchen_sink"
+  }
+}

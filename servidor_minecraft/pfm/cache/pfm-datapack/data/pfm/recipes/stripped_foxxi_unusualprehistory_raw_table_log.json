@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_foxxi_unusualprehistory_raw_table_log"
+  }
+}

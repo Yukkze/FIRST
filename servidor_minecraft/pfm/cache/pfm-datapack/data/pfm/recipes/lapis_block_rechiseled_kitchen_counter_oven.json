@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:lapis_block_rechiseled_kitchen_counter_oven"
+  }
+}

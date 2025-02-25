@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_wool"
+    },
+    {
+      "item": "minecraft:purple_wool"
+    },
+    {
+      "item": "minecraft:purple_wool"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "purple",
+        "variant": "unusualprehistory:dryo"
+      }
+    }
+  }
+}

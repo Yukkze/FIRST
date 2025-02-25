@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:petrified_wood_unusualprehistory_kitchen_wall_counter"
+  }
+}

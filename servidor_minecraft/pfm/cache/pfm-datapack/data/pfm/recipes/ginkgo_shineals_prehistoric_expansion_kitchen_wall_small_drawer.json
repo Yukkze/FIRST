@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:ginkgo_shineals_prehistoric_expansion_kitchen_wall_small_drawer"
+  }
+}

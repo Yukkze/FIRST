@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_juniper_shineals_prehistoric_expansion_coffee_table_classic"
+  }
+}

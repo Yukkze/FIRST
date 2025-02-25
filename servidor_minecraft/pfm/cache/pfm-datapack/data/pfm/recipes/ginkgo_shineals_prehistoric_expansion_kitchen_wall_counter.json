@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:ginkgo_shineals_prehistoric_expansion_kitchen_wall_counter"
+  }
+}

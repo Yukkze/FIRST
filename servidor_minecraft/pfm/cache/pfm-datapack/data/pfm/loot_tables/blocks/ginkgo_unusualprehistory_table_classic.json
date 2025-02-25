@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:ginkgo_unusualprehistory_table_classic"
+        }
+      ],
+      "name": "ginkgo_unusualprehistory_table_classic",
+      "rolls": 1.0
+    }
+  ]
+}

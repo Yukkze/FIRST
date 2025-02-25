@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:foxxi_unusualprehistory_kitchen_sink"
+  }
+}

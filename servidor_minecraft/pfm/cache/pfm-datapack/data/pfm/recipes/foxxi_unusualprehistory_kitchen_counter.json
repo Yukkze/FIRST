@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:foxxi_unusualprehistory_kitchen_counter"
+  }
+}

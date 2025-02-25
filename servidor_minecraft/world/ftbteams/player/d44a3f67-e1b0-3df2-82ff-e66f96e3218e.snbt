@@ -1,0 +1,17 @@
+{
+	id: "d44a3f67-e1b0-3df2-82ff-e66f96e3218e"
+	type: "player"
+	player_name: "DiegoJvv"
+	ranks: {
+		d44a3f67-e1b0-3df2-82ff-e66f96e3218e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DiegoJvv"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5991"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

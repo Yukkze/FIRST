@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dryo_unusualprehistory_raw_table_log"
+  }
+}

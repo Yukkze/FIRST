@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ginkgo_unusualprehistory_modern_stool"
+  }
+}

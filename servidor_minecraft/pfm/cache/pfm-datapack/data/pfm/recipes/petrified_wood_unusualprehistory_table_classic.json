@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:petrified_wood_unusualprehistory_table_classic"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "lime",
+        "variant": "shineals_prehistoric_expansion:ginkgo"
+      }
+    }
+  }
+}

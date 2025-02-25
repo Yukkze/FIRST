@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:dryo_unusualprehistory_kitchen_cabinet"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dryo_unusualprehistory_coffee_table_modern"
+  }
+}

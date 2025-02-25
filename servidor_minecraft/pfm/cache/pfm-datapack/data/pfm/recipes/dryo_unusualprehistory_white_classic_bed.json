@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "minecraft:white_bed"
+    },
+    {
+      "item": "unusualprehistory:dryo_fence"
+    },
+    {
+      "item": "unusualprehistory:dryo_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:dryo_unusualprehistory_white_classic_bed"
+  }
+}

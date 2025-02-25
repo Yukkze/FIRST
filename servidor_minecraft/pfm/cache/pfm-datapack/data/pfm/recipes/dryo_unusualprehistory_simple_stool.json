@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dryo_unusualprehistory_simple_stool"
+  }
+}

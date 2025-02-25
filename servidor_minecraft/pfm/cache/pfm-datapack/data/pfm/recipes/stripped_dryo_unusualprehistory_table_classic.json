@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_dryo_unusualprehistory_table_classic"
+  }
+}

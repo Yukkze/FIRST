@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ginkgo_shineals_prehistoric_expansion_log_stool"
+  }
+}

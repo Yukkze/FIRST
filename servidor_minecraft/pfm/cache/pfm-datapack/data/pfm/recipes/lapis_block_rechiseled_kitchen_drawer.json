@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:lapis_block_rechiseled_kitchen_drawer"
+  }
+}

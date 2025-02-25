@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:foxxi_unusualprehistory_table_dinner"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "red",
+        "variant": "unusualprehistory:foxxi"
+      }
+    }
+  }
+}

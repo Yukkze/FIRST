@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_fence"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:juniper_shineals_prehistoric_expansion_light_blue_classic_bed"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_foxxi_unusualprehistory_kitchen_counter_oven"
+  }
+}

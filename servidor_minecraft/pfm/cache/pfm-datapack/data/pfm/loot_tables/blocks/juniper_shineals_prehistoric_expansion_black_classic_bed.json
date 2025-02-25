@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "pfm:juniper_shineals_prehistoric_expansion_black_classic_bed",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "part": "head"
+              }
+            }
+          ],
+          "name": "pfm:juniper_shineals_prehistoric_expansion_black_classic_bed"
+        }
+      ],
+      "name": "juniper_shineals_prehistoric_expansion_black_classic_bed",
+      "rolls": 1.0
+    }
+  ]
+}

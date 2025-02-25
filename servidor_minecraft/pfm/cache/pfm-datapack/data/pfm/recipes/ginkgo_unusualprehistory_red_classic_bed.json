@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_fence"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:ginkgo_unusualprehistory_red_classic_bed"
+  }
+}

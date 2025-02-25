@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_ginkgo_shineals_prehistoric_expansion_kitchen_counter_oven"
+  }
+}

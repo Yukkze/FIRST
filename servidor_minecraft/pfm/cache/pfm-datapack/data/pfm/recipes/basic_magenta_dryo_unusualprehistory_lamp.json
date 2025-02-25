@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "magenta",
+        "variant": "unusualprehistory:dryo"
+      }
+    }
+  }
+}

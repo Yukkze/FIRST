@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_foxxi_unusualprehistory_kitchen_wall_small_drawer"
+  }
+}

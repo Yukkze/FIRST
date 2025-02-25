@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ginkgo_shineals_prehistoric_expansion_raw_table_log"
+  }
+}

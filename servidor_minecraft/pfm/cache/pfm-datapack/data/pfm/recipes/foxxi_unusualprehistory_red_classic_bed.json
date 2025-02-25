@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "unusualprehistory:foxxi_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "unusualprehistory:foxxi_fence"
+    },
+    {
+      "item": "unusualprehistory:foxxi_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:foxxi_unusualprehistory_red_classic_bed"
+  }
+}

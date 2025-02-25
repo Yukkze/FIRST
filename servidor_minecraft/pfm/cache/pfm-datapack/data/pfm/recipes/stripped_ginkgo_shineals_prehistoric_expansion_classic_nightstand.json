@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ginkgo_shineals_prehistoric_expansion_classic_nightstand"
+  }
+}

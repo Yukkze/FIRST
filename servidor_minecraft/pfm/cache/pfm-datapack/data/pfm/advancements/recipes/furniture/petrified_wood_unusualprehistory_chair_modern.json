@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:petrified_wood_unusualprehistory_chair_modern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "petrified_wood_unusualprehistory_chair_modern": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "unusualprehistory:polished_petrified_wood"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "petrified_wood_unusualprehistory_chair_modern",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:petrified_wood_unusualprehistory_chair_modern"
+    ]
+  },
+  "sends_telemetry_event": true
+}

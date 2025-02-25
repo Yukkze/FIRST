@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_foxxi_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "yellow",
+        "variant": "unusualprehistory:foxxi"
+      }
+    }
+  }
+}

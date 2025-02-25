@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:juniper_shineals_prehistoric_expansion_kitchen_cabinet"
+  }
+}

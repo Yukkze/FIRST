@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_juniper_shineals_prehistoric_expansion_classic_nightstand"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "light_gray",
+        "variant": "shineals_prehistoric_expansion:juniper"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "lime",
+        "variant": "unusualprehistory:dryo"
+      }
+    }
+  }
+}

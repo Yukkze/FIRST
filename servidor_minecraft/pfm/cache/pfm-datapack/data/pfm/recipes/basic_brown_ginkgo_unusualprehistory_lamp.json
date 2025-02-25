@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_wool"
+    },
+    {
+      "item": "minecraft:brown_wool"
+    },
+    {
+      "item": "minecraft:brown_wool"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_ginkgo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "brown",
+        "variant": "unusualprehistory:ginkgo"
+      }
+    }
+  }
+}

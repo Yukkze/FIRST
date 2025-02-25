@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    },
+    {
+      "item": "rechiseled:lapis_block_polished"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:lapis_block_rechiseled_modern_stool"
+  }
+}

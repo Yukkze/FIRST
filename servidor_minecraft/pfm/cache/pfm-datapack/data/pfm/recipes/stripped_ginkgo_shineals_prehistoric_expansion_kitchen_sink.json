@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_ginkgo_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:ginkgo_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_ginkgo_shineals_prehistoric_expansion_kitchen_sink"
+  }
+}

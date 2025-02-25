@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:petrified_wood"
+    },
+    {
+      "item": "unusualprehistory:polished_petrified_wood"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:petrified_wood_unusualprehistory_classic_nightstand"
+  }
+}

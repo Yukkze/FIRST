@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:stripped_juniper_log"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    },
+    {
+      "item": "shineals_prehistoric_expansion:juniper_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_juniper_shineals_prehistoric_expansion_kitchen_counter"
+  }
+}

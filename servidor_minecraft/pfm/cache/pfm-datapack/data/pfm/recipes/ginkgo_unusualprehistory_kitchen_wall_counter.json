@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:ginkgo_unusualprehistory_kitchen_wall_counter"
+  }
+}

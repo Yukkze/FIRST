@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:smelting_upgrade|true", "sophisticatedstorage:stack_upgrade_tier_2|true", "sophisticatedbackpacks:tank_upgrade|true", "sophisticatedstorage:limited_barrel_1|true", "sophisticatedstorage:limited_barrel_3|true", "sophisticatedstorage:limited_barrel_2|true", "sophisticatedstorage:limited_barrel_4|true"]
+

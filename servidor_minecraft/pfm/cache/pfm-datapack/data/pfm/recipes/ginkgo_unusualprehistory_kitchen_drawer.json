@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_planks"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_log"
+    },
+    {
+      "item": "unusualprehistory:ginkgo_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:ginkgo_unusualprehistory_kitchen_drawer"
+  }
+}

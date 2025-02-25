@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:coal_block_rechiseled_chair_dinner"
+        }
+      ],
+      "name": "coal_block_rechiseled_chair_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

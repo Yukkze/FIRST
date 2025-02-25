@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:stripped_dryo_log"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "unusualprehistory:dryo_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_dryo_unusualprehistory_kitchen_wall_drawer"
+  }
+}

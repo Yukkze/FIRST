@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "unusualprehistory:foxxi_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:foxxi_unusualprehistory_log_stool"
+  }
+}
